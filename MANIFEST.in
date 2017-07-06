@@ -1,0 +1,3 @@
+graft wordmaster/templates
+graft wordmaster/static
+include wordmaster/schema.sql

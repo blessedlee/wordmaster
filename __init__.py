@@ -1,0 +1,1 @@
+from .wordmaster import app
